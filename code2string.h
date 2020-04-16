@@ -1,8 +1,9 @@
 /********************************************
 *      MPEG-2 Transport Stream PSI analyzer *
-*      Wesley Chen 2013-2020          *
+*      copyright © Wesley Chen. all rights reserved 2013-2020 *
 *      Software Verion 1.1.0           *
 ********************************************/
+
 #ifndef __CODE2STRING__
 #define __CODE2STRING__
 
