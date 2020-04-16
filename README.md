@@ -34,12 +34,10 @@ Know issue:
 2. Caption descriptor not yet implemented.
 
 Output data:
-----------------------------------------
 
 -Transport structure
-                   |_MPEG-2/PSI
-                   |           |_PAT 
-                   |                |_PMT  
-                   |_SCTE65/PSI
-                   |_SCTE18/PSI
-----------------------------------------
+                    |_MPEG-2/PSI
+                    |           |_PAT 
+                    |                |_PMT  
+                    |_SCTE65/PSI
+                    |_SCTE18/PSI
