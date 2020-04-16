@@ -11,7 +11,7 @@ MPEG-2 Transport Stream PSI analyser is the software tool to help you to analyze
 It includes several features as below description.
 
 Feature:
-1. support below standard PSI/SI parsing
+1. support below standard PSI/SI header parsing analysis
 
 	MPEG-2 standard PSI: 
 	                                PAT,PMT,CAT,TSDT
